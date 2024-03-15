@@ -1,4 +1,4 @@
-<img align="center" alt="perfil" height="40" width="40" src="https://i.pinimg.com/564x/04/c1/25/04c1255ec3d0785dfa97f2f8806813bd.jpg"> 0satt 
+<img align="center" alt="perfil" height="39" width="39" src="https://i.pinimg.com/564x/04/c1/25/04c1255ec3d0785dfa97f2f8806813bd.jpg"> satt
 - programador 
 - faculdade de engenharia de sofware 1 ano 
 - estudando python, css, html e java
