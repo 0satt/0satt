@@ -1,8 +1,8 @@
 <img align="center" alt="perfil" height="39" width="39" src="https://i.pinimg.com/736x/7b/c3/69/7bc369e232d8a6b51d299d2827b3cd8f.jpg"> satt
 - programador 
-- estudando HTML, CSS, JavaScript
 - cursos alura
 - Aluno-FIAP
+- Eng.Software pleno - sabesp
 
 
  <div style="display: inline_block"><br>
