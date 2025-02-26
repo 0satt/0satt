@@ -8,6 +8,6 @@ Linguagens:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="![pythonlogo](https://github.com/user-attachments/assets/33378121-0d6e-45a0-aa7a-a9d51e2d11f4)"
+  <img align="center" alt="Python" height="30" width="40" src="file:///C:/Imagens/Photoshop/Photoshop_imagens%20_utilizar/pythonlogo.png"
 
 </div>
