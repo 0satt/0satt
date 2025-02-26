@@ -2,6 +2,7 @@
 - programador 
 - estudando HTML, CSS, JavaScript
 - cursos alura
+- Aluno-FIAP
 
 
  <div style="display: inline_block"><br>
