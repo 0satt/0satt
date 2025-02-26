@@ -1,5 +1,4 @@
-<img align="center" alt="perfil" height="39" width="39" src="![perfil__principal](https://github.com/user-attachments/assets/66eaa605-8f3f-4f85-b775-36f24cd8e17e)
-"> satt
+<img align="center" alt="perfil" height="39" width="39" src="https://i.pinimg.com/736x/7b/c3/69/7bc369e232d8a6b51d299d2827b3cd8f.jpg"> satt
 - programador 
 - estudando HTML, CSS, JavaScript
 - cursos alura
