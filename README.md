@@ -1,6 +1,3 @@
-
-- programador 
-- cursos alura
 - FIAP - software engineering 
 
 Linguagens: 
