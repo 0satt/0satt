@@ -1,5 +1,6 @@
 - Software Engineering Student at the FIAP
 - Studying data analytics and machine learning
+- I work at The Walt Disney Company
   
 ## Languages: 
  <div style="display: inline_block"><br>
